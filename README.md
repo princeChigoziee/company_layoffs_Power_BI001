@@ -11,7 +11,7 @@ Company Layoffs: The primary dataset used for this analysis is "layoffs.csv". Bu
 
 ## Tools
 - Excel - Data Cleaning, Advance Calculation.
-- Power BI - DAX Calculation, Visualization.
+- Power BI - DAX Calculation, Data Visualization.
 
 ## Data Cleaning/Preparation
 Pre-processing Steps:
